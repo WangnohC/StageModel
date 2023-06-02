@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/main",
+    "pages/page",
+    "pages/commonevent",
+    "pages/pageindex",
+    "pages/commoneventindex"
+  ]
+}
